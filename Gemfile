@@ -50,3 +50,5 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'font-awesome-sass', '4.6.2'
 # Use Hirb gem for better console data presentation
 gem 'hirb', '0.7.3'
+# Use Devise for user authentication
+gem 'devise', '4.2.0'
